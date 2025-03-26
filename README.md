@@ -1,2 +1,2 @@
-# Eng_CN-Subtitle
+# ENGLISH_CHINESE-Subtitle
 this project can add English and Chinese subtitle
